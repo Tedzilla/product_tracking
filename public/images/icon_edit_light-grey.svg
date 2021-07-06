@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b6b2b8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="icon_edit_light-grey" class="cls-1" d="M17.373,4.051a2.71,2.71,0,0,1,3.833,3.833L8.27,20.82,3,22.257l1.437-5.27Z" transform="translate(-2 -2.257)"/>
+</svg>

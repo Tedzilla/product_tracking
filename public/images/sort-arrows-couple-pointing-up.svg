@@ -1,0 +1,15 @@
+<svg id="sort-arrows-couple-pointing-up" xmlns="http://www.w3.org/2000/svg" width="9.419" height="15.26" viewBox="0 0 9.419 15.26">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="sort_ascending" class="cls-1" d="M17.144,9l1,1.107-3.251,3.6,3.251,3.6-1,1.107-4.259-4.709Z" transform="translate(18.419 -12.885) rotate(90)"/>
+  <path id="sort_descending" class="cls-2" d="M4.259,9.419l1-1.107L2.009,4.71l3.251-3.6L4.259,0,0,4.71Z" transform="translate(0 15.26) rotate(-90)"/>
+</svg>

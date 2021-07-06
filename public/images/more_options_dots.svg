@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="18" viewBox="0 0 4 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #212529;
+      }
+    </style>
+  </defs>
+  <g id="more_options" transform="translate(-149.333 0)">
+    <g id="Group_3" data-name="Group 3" transform="translate(149.333)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="2" cy="2" r="2"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(149.333 7)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="2" cy="2" r="2"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(149.333 14)">
+      <g id="Group_6" data-name="Group 6" transform="translate(0)">
+        <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="2" cy="2" r="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

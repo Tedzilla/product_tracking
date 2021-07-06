@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+// Body
+$body-bg: #ffffff;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$l-grey: #F3F3F3;
+$m-grey: #B6B2B8;
+$d-grey: #525252;
+$menu-grey: #2B2933;
+$orange: #EF7926;
+$red: #DE7D7D;
+
+$font-family-sans-serif: 'Roboto', sans-serif;;
+$font-size-base: 0.875rem;
+$line-height-base: 1;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+$img: '/public/images/';
+
+$spacer: 10px;
+$spacers: ( 0:0);
+@for $i from 1 through 60 {
+  $spacers: map-merge($spacers, (
+  $i: ($i * $spacer)
+  ));
+}
+
+@mixin setBgColorAndHover($baseColor){
+    background-color: $baseColor;
+		 &:hover{
+          background-color: darken($baseColor, 5%);
+			 text-decoration: none; 
+			 color: white;
+	}
+} 

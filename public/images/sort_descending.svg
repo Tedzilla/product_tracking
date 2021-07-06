@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.419" height="5.26" viewBox="0 0 9.419 5.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="sort_descending" class="cls-1" d="M4.259,9.419l1-1.107L2.009,4.71l3.251-3.6L4.259,0,0,4.71Z" transform="translate(0 5.26) rotate(-90)"/>
+</svg>

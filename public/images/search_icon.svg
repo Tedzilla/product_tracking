@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #525252;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="search_icon" class="cls-1" d="M-7157.826,450.674a8.862,8.862,0,0,1-6.286,2.6,8.889,8.889,0,0,1-8.889-8.888,8.89,8.89,0,0,1,8.889-8.89,8.89,8.89,0,0,1,8.89,8.89,8.859,8.859,0,0,1-2.6,6.286L-7153,455.5Z" transform="translate(7174.5 -433.999)"/>
+</svg>

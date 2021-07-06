@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="29.999" viewBox="0 0 30 29.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef2626;
+      }
+    </style>
+  </defs>
+  <g id="icon_inactive_popup" transform="translate(0 -0.005)">
+    <g id="Group_52" data-name="Group 52" transform="translate(0 0.005)">
+      <path id="Path_76" data-name="Path 76" class="cls-1" d="M25.612,4.393a15,15,0,1,0,0,21.224A15.024,15.024,0,0,0,25.612,4.393ZM21.19,19.427a1.25,1.25,0,1,1-1.768,1.768L15,16.773l-4.42,4.421a1.25,1.25,0,0,1-1.768-1.768L13.232,15,8.811,10.584a1.25,1.25,0,0,1,1.768-1.768L15,13.236l4.421-4.421a1.25,1.25,0,1,1,1.768,1.768L16.769,15Z" transform="translate(0 -0.005)"/>
+    </g>
+  </g>
+</svg>
